@@ -6,6 +6,6 @@ A simple Java console application that performs:
 3.Multiplication
 4.Division
 
-Steps to execute code
+Steps to execute code <br>
 javac ConsoleCalculator.java
 java ConsoleCalculator
